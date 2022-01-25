@@ -23,8 +23,34 @@
 
 <style>
     .custom-login{
-         height: 750px;
-         padding-top: 100px;
+         height: 800px;
+         padding-top: 200px;
+    }
+    img.slider-img{
+        height:400px !important;
+
+    }
+    .custom-product{
+        height:800px;
+    }
+    .slider-text{
+        background-color:#35443585 !important;
+    }
+    .trending-image{
+        height: 150px;
+    }
+    .trending-item{
+        float:left;
+        width: 20%;
+    }
+    .trending-wrapper{
+        margin:30px;
+    }
+    .detail-img{
+        height: 200px;
+    }
+    .search-box{
+        width: 500px !important;
     }
 </style>
 </html>
